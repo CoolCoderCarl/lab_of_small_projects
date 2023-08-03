@@ -6,7 +6,6 @@ Tags: short, humor, simulation"""
 
 import random
 
-
 print('''Powerball Lottery, by Al Sweigart al@inventwithpython.com
 
 Each powerball lottery ticket costs $2. The jackpot for this game
