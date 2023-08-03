@@ -6,7 +6,9 @@ More info at: https://en.wikipedia.org/wiki/Prime_number
 This code is available at https://nostarch.com/big-book-small-python-programming
 Tags: tiny, math, scrolling"""
 
-import math, sys
+import math
+import sys
+
 
 def main():
     print('Prime Numbers, by Al Sweigart al@inventwithpython.com')
