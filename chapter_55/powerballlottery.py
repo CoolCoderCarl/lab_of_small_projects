@@ -6,7 +6,6 @@ Tags: short, humor, simulation"""
 
 import random
 
-# TODO Resolve conflicts
 
 print('''Powerball Lottery, by Al Sweigart al@inventwithpython.com
 
